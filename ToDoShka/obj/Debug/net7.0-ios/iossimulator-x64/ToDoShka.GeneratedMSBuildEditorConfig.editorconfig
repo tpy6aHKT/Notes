@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ToDoShka
+build_property.ProjectDir = /Users/master/Documents/Bit/C#/MAUI/ToDoShka/ToDoShka/
+
+[/Users/master/Documents/Bit/C\#/MAUI/ToDoShka/ToDoShka/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ToDoShka.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/master/Documents/Bit/C\#/MAUI/ToDoShka/ToDoShka/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ToDoShka.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/master/Documents/Bit/C\#/MAUI/ToDoShka/ToDoShka/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ToDoShka.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/master/Documents/Bit/C\#/MAUI/ToDoShka/ToDoShka/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ToDoShka.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/master/Documents/Bit/C\#/MAUI/ToDoShka/ToDoShka/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ToDoShka.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AboutPage.xaml
+
+[/Users/master/Documents/Bit/C\#/MAUI/ToDoShka/ToDoShka/Views/AllNotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ToDoShka.Views.AllNotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AllNotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AllNotesPage.xaml
+
+[/Users/master/Documents/Bit/C\#/MAUI/ToDoShka/ToDoShka/Views/NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ToDoShka.Views.NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/NotePage.xaml
