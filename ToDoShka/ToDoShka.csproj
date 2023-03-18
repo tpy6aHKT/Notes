@@ -66,10 +66,10 @@
 	  <Folder Include="Views\" />
 	  <Folder Include="ViewModels\" />
 	</ItemGroup>
-	<ItemGroup>
+	<!--<ItemGroup>
 	  <MauiXaml Remove="Resources\Styles\Styles.xaml" />
 	  <MauiXaml Remove="Resources\Styles\Colors.xaml" />
-	</ItemGroup>
+	</ItemGroup> -->
 	<ItemGroup>
 	  <BundleResource Include="Resources\Styles\Styles.xaml" Condition=" '$(EnableDefaultXamlItems)' == 'true' ">
 	    <SubType>Designer</SubType>

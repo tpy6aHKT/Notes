@@ -29,10 +29,20 @@
         <!-- Define the appearance of each item in the list -->
         <CollectionView.ItemTemplate>
             <DataTemplate>
-                <StackLayout>
-                    <Label Text="{Binding Text}" FontSize="22"/>
-                    <Label Text="{Binding Date}" FontSize="14" TextColor="Silver"/>
-                </StackLayout>
+                <SwipeView>
+                    <SwipeView.RightItems>
+                        <SwipeItems>
+                            <SwipeItem Text="Delete"
+                                       BackgroundColor="Red"/>
+                        </SwipeItems>
+                    </SwipeView.RightItems>
+                    <Frame BorderColor="Black">
+                        <StackLayout>
+                            <Label Text="{Binding Text}" FontSize="22"/>
+                            <Label Text="{Binding Date}" FontSize="14" TextColor="Silver"/>
+                        </StackLayout>
+                    </Frame>
+                </SwipeView>
             </DataTemplate>
         </CollectionView.ItemTemplate>
     </CollectionView>
